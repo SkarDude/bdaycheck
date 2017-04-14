@@ -1,0 +1,33 @@
+/*Alex Nagel, CIS 3003, Assignment 3 */
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background: #7d7e7d;
+  margin-top: 12em;
+}
+
+h1 {
+  font-size: 32px;
+  letter-spacing: 3px;
+}
+
+.button {
+  background-color: #A9A9A9;
+  border-radius: 28px;
+  border: 1px solid #FFFFFF;
+  display: inline-block;
+  cursor: pointer;
+  color: white;
+  font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #7d7e7d;
+}
+
+a {
+	float: left;
+	margin: -10em 5em 5em 20em;
+}
